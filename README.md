@@ -1,8 +1,9 @@
 # Coursera IA Medicina
 
-## Curso 1 - IA para diagnóstico médico
+# Curso 1 - IA para diagnóstico médico
+## Projeto 1 - Diagnóstico médico de radiografia de tórax com aprendizado profundo
 
-## Projeto 1 descrição projeto
+**Descrição projeto**
 
 Este projeto é uma compilação de vários subprojetos do curso IA para Especialização Médica da Coursera, que tem como objetivo usar um modelo de aprendizado profundo para diagnosticar patologias em radiografias de tórax. O projeto utiliza um modelo DenseNet-121 pré-treinado capaz de diagnosticar 14 rótulos, como Cardiomegalia, Massa, Pneumotórax ou Edema. Em outras palavras, esse único modelo pode fornecer previsões de classificação binária para cada uma das 14 patologias rotuladas. 
 A normalização de peso é realizada para compensar a baixa prevalência das anormalidades nos conjuntos de dados de radiografias de tórax (desequilíbrio de classes). Por fim, a técnica GradCAM é utilizada para destacar e visualizar onde o modelo está focando, ou seja, qual área de interesse é usada para fazer a previsão. Essa é uma ferramenta que pode ser útil para a descoberta de marcadores, análise de erros, treinamento e até mesmo na implantação do modelo.
