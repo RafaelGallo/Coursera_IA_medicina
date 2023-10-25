@@ -118,20 +118,20 @@ Aqui, o modelo identifica corretamente os sinais de edema na parte inferior da c
 
 Desempenho do artigo ChexNeXt (modelo e também radiologistas)
 
+## Projeto 1 Notebook
+[Notebook](https://github.com/RafaelGallo/Coursera_IA_medicina/blob/main/notebook/Curso_1_IA_para_diagn%C3%B3stico_m%C3%A9dico/Projeto_01/C1M1_Assignment.ipynb)
+
+## Projeto 2 Notebook
+[Notebook](https://github.com/RafaelGallo/Coursera_IA_medicina/blob/main/notebook/Curso_1_IA_para_diagn%C3%B3stico_m%C3%A9dico/Projeto_02/C1M2_Assignment.ipynb)
+
+## Projeto 3 Notebook
+[Notebook](https://github.com/RafaelGallo/Coursera_IA_medicina/blob/main/notebook/Curso_1_IA_para_diagn%C3%B3stico_m%C3%A9dico/Projeto_03/C1M3_Assignment.ipynb)
 
 ![](https://github.com/RafaelGallo/Coursera_IA_medicina/blob/main/img/68747470733a2f2f6a6f75726e616c732e706c6f732e6f72672f706c6f736d65646963696e652f61727469636c652f6669677572652f696d6167653f73697a653d6c617267652669643d31302e313337312f6a6f75726e616c2e706d65642e313030323638362e74303031.png?raw=true)
 
 ## Conclusão 
 
 Este projeto faz parte de um curso de IA para Medicina, onde estamos desenvolvendo uma rede neural convolucional (CNN) voltada para a classificação de imagens médicas. A arquitetura do modelo DenseNet, que foi previamente treinado, se destacou ao apresentar excelentes resultados na análise de imagens médicas. Essa abordagem inovadora promete um impacto significativo na precisão dos diagnósticos, destacando-se como uma ferramenta valiosa na área da medicina. Combinando a eficiência do DenseNet com a expertise médica, este projeto tem o potencial de aprimorar a prática médica e melhorar o atendimento ao paciente.
-
-## Projeto semana 2 - 
-
-## Projeto semana 3 - 
-
-# Curso 2 - IA para prognóstico médico
-
-# Curso 3 - IA para tratamento médico
 
 # Citação
 Esse projeto na pratica da formação IA para medicina @DeepLearning.AI 
