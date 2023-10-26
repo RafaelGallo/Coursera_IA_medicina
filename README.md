@@ -118,6 +118,8 @@ Aqui, o modelo identifica corretamente os sinais de edema na parte inferior da c
 
 Desempenho do artigo ChexNeXt (modelo e também radiologistas)
 
+# Curso 1 - IA para diagnóstico médico
+
 ## Projeto 1 Notebook
 [Notebook](https://github.com/RafaelGallo/Coursera_IA_medicina/blob/main/notebook/Curso_1_IA_para_diagn%C3%B3stico_m%C3%A9dico/Projeto_01/C1M1_Assignment.ipynb)
 
@@ -126,6 +128,10 @@ Desempenho do artigo ChexNeXt (modelo e também radiologistas)
 
 ## Projeto 3 Notebook
 [Notebook](https://github.com/RafaelGallo/Coursera_IA_medicina/blob/main/notebook/Curso_1_IA_para_diagn%C3%B3stico_m%C3%A9dico/Projeto_03/C1M3_Assignment.ipynb)
+
+# Curso 2 - IA para prognóstico médico
+
+# Curso 3 - IA para tratamento médico
 
 ![](https://github.com/RafaelGallo/Coursera_IA_medicina/blob/main/img/68747470733a2f2f6a6f75726e616c732e706c6f732e6f72672f706c6f736d65646963696e652f61727469636c652f6669677572652f696d6167653f73697a653d6c617267652669643d31302e313337312f6a6f75726e616c2e706d65642e313030323638362e74303031.png?raw=true)
 
